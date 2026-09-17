@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "lastSynced": "2026-09-17T13:20:07.946Z",
+  "problems": {
+    "Q0.1": {
+      "questionId": "Q0.1",
+      "title": "Basic_level_0_Datatypes_1",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-1-basic-level-0-datatypes-1",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-09-17T13:20:07.946Z"
+    }
+  }
+}
