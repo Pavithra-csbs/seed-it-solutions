@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-17T13:31:59.618Z",
+  "lastSynced": "2026-09-17T13:39:45.260Z",
   "problems": {
     "Q0.1": {
       "questionId": "Q0.1",
@@ -23,6 +23,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-09-17T13:31:59.618Z"
+    },
+    "Q2": {
+      "questionId": "Q2",
+      "title": "Add Reverse-Digit Lists Problem",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q2-add-reverse-digit-lists-problem",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-09-17T13:39:45.260Z"
     }
   }
 }
